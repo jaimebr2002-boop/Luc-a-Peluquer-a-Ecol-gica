@@ -66,7 +66,7 @@ export default function App() {
   }, []);
 
   const navLinks = [
-    { name: 'Sobre Nosotros', href: '#sobre-nosotros' },
+    { name: 'Nosotras', href: '#sobre-nosotros' },
     { name: 'Servicios', href: '#servicios' },
     { name: 'Resultados', href: '#resultados' },
     { name: 'Reseñas', href: '#resenas' },
